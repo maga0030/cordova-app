@@ -4,7 +4,7 @@
         "name": "FutureSex/LoveSounds",
         "artist": "Justin Timberlake",
         "year": 2006,
-        "cover-path": "/img/FutureSex_LoveSounds.png",
+        "cover_path": "/img/FutureSex_LoveSounds.png",
         "songs": [
             {
                 "track": 1,
@@ -73,7 +73,7 @@
         "name":"Good Kid M.A.A.D City", 
         "artist":"Kendrick Lamar", 
         "year": 2012,
-        "cover-path": "/img/GKMCDeluxe.png",
+        "cover_path": "/img/GKMCDeluxe.png",
         "songs": [
             {
                 "track": 1,
@@ -142,7 +142,7 @@
         "name":"Viva La Vida or Death and All His Friends", 
         "artist":"Coldplay",
         "year": 2008,
-        "cover-path": "/img/Viva_la_Vida_or_Death_and_All_His_Friends.png",
+        "cover_path": "/img/Viva_la_Vida_or_Death_and_All_His_Friends.png",
         "songs": [
             {
                 "track": 1,
@@ -201,7 +201,7 @@
         "name":"The Colour and the Shape", 
         "artist":"Foo Fighters",
         "year": 1997,
-        "cover-path": "/img/TheColourAndTheShape.png",
+        "cover_path": "/img/TheColourAndTheShape.png",
         "songs": [
             {
                 "track": 1,
@@ -275,7 +275,7 @@
         "name":"Yeezus", 
         "artist":"Kanye West",
         "year": 2013,
-        "cover-path": "/img/Yeezus.png",
+        "cover_path": "/img/Yeezus.png",
         "songs": [
             {
                 "track": 1,
